@@ -1,0 +1,20 @@
+.cabecalho{
+    background-color: rgb(233, 83, 83);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cabecalho h1{
+    margin:0;
+}
+
+.menu ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+
+}
